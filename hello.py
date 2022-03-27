@@ -1,5 +1,5 @@
 a=20
 b=20
 sum =a+b
-print ("sum")
-
+print ("a+b")
+print (a*b)
